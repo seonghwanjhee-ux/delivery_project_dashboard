@@ -1,0 +1,4 @@
+.venv/
+_agg_*.csv
+__pycache__/
+.claude/
